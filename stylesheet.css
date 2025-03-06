@@ -1,0 +1,46 @@
+div{
+    background-color:rgb(87, 87, 133);
+     
+}
+.heading{
+    color:red;
+}
+button{
+    color:green;
+    background-color:pink;
+    
+}
+
+div{
+    color:red;
+    text-transform:capitalize;
+    text-align: center;
+    text-shadow: 1cm;
+    text-shadow: rgb(222, 105, 105);
+    background-size: 10cm;
+    background-color: brown;
+    background-origin: border-box;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    height:50px;
+    width: 110px;
+    margin-left: 250px;
+    padding :50px;
+    padding-top: 40;
+}
+
+p{
+    font-family:'times new roman';
+}
+outer{
+    font-size:20px;
+    line-hight:20px
+}
+innner{
+    font-size:larger;
+}
+body{
+    background-image:url("baby.jpg") ;
+    background-size:auto;
+}
